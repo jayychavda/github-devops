@@ -35,3 +35,7 @@ git log
 
 # Remove from staging
 git reset filename
+
+
+
+kese hoo aap log!!!!
